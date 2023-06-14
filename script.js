@@ -16,13 +16,13 @@ $(document).ready(function(){
      });
 
      var typed = new Typed(".typing", {
-         strings:["Desenvolvedor Junior", "Designer Gráfico", "TI"],
+         strings:["Desenvolvedor Full Stack", "Designer Gráfico", "TI"],
          typeSpeed:100,
          backSpeed:60,
          loop:true
      });
      var typed = new Typed(".typing-2", {
-        strings:["Desenvolvedor Front-End", "Designer Gráfico", "TI"],
+        strings:["Desenvolvedor Full Stack", "Designer Gráfico", "TI"],
         typeSpeed:100,
         backSpeed:60,
         loop:true
